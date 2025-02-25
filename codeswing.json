@@ -1,5 +1,6 @@
 {
     "scripts": [],
     "styles": [],
-    "layout": "splitLeft"
+    "layout": "splitLeft",
+    "showConsole": true
 }
